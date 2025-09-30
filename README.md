@@ -1,1 +1,1 @@
-# Apple-and-Orange-ALGO
+# Apple-and-Orange-ALGO. This program reads input values for a house’s range, apple and orange tree positions, and the distances fruits fall, then counts how many apples and oranges land on the house and prints the results. It does this by adding each fruit’s distance to its tree position and checking if it lies within the house boundaries.
